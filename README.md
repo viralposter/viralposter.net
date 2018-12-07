@@ -1,2 +1,2 @@
 ## Welcome to Viralposter.net
-Free website template over CDN
+Free website template
