@@ -1,2 +1,2 @@
 ## Welcome to Viralposter.net
-Free website template
+I'm experimenting with jsDelivr CDN.
