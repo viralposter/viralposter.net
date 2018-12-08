@@ -1,5 +1,5 @@
 <?php
-$version = "0.3";
+$version = "0.4";
 ?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
