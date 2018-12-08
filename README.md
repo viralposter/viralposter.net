@@ -1,2 +1,2 @@
 ## Welcome to Viralposter.net
-I'm experimenting with jsDelivr CDN.
+I'm experimenting with jsDelivr.
