@@ -85,7 +85,7 @@ $version = "0.3";
 
         <div class="row">
             <div class="header-logo">
-                <a class="site-logo" href="index.html">
+                <a class="site-logo" href="/">
                     <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/logo.svg" alt="Homepage">
                 </a>
             </div>
