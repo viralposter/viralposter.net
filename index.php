@@ -1,5 +1,5 @@
 <?php
-$version = "0.5";
+$version = "0.6";
 ?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
@@ -40,9 +40,9 @@ $version = "0.5";
 
     <!-- CSS
     ================================================== -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/base.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/vendor.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/base.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/vendor.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/main.min.css">
 
     <!-- script
     ================================================== -->
@@ -534,7 +534,7 @@ $version = "0.5";
     <!-- Java Script
     ================================================== -->
     <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/jquery-3.2.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/plugins.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/plugins.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/main.min.js"></script>
 
 </body>
