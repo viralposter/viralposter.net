@@ -1,5 +1,5 @@
 <?php
-$version = "0.6";
+$version = "0.7";
 ?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
@@ -13,22 +13,22 @@ $version = "0.6";
 	<meta name="theme-color" content="#042449"/>
 	<!-- Search Engine -->
     <meta name="description" content="ViralPoster is a powerful tool for posting to all your facebook groups, fan pages automatically promote anything on Facebook and drive traffic with our ViralPoster and sheduler.">
-    <meta name="image" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/social.jpg">
+    <meta name="image" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/social.jpg">
     <!-- Schema.org for Google -->
     <meta itemprop="name" content="VIRALPOSTER | Simply The Best Facebook Auto Poster">
     <meta itemprop="description" content="ViralPoster is a powerful tool for posting to all your facebook groups, fan pages automatically promote anything on Facebook and drive traffic with our ViralPoster and sheduler.">
-    <meta itemprop="image" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/social.jpg">
+    <meta itemprop="image" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/social.jpg">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="VIRALPOSTER | Simply The Best Facebook Auto Poster">
     <meta name="twitter:description" content="ViralPoster is a powerful tool for posting to all your facebook groups, fan pages automatically promote anything on Facebook and drive traffic with our ViralPoster and sheduler.">
     <meta name="twitter:site" content="@viralposter">
     <meta name="twitter:creator" content="@viralposter">
-    <meta name="twitter:image:src" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/social.jpg">
+    <meta name="twitter:image:src" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/social.jpg">
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
     <meta name="og:title" content="VIRALPOSTER | Simply The Best Facebook Auto Poster">
     <meta name="og:description" content="ViralPoster is a powerful tool for posting to all your facebook groups, fan pages automatically promote anything on Facebook and drive traffic with our ViralPoster and sheduler.">
-    <meta name="og:image" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/social.jpg">
+    <meta name="og:image" content="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/social.jpg">
     <meta name="og:url" content="https://www.viralposter.net">
     <meta name="og:site_name" content="viralposter">
     <meta name="og:locale" content="en_US">
@@ -40,19 +40,19 @@ $version = "0.6";
 
     <!-- CSS
     ================================================== -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/base.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/vendor.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/css/main.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/css/base.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/css/vendor.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/css/main.min.css">
 
     <!-- script
     ================================================== -->
-    <script async src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/modernizr.js"></script>
-    <script async src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/pace.min.js"></script>
+    <script async src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/js/modernizr.js"></script>
+    <script async src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/js/pace.min.js"></script>
 
     <!-- favicons
     ================================================== -->
-    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/favicon.ico" type="image/x-icon">
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130240422-1"></script>
@@ -86,7 +86,7 @@ $version = "0.6";
         <div class="row">
             <div class="header-logo">
                 <a class="site-logo" href="/">
-                    <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/logo.svg" alt="Homepage">
+                    <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/logo.svg" alt="Homepage">
                 </a>
             </div>
     
@@ -112,7 +112,7 @@ $version = "0.6";
 
     <!-- home
     ================================================== -->
-    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/page-bg.jpg" data-natural-width=1920 data-natural-height=1080 data-position-y=center>
+    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/page-bg.jpg" data-natural-width=1920 data-natural-height=1080 data-position-y=center>
 
         <div class="shadow-overlay"></div>
 
@@ -138,7 +138,7 @@ $version = "0.6";
                 </div> <!-- end home-content__left-->
 
                 <div class="home-content__right">
-                    <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/viralposter-app-screens-800.png" srcset="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/viralposter-app-screens-800.png 1x, https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/viralposter-app-screens-1600.png 2x">
+                    <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/viralposter-app-screens-800.png" srcset="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/viralposter-app-screens-800.png 1x, https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/viralposter-app-screens-1600.png 2x">
                 </div> <!-- end home-content__right -->
 
             </div> <!-- end home-content__main -->
@@ -332,7 +332,7 @@ $version = "0.6";
                 <div class="col-full slick-slider testimonials__slider">
 
                     <div class="testimonials__slide">
-                        <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
                         
                         <p>It really saves me time and effort. Viralposter is exactly what our business has been lacking. Not able to tell you how happy I am with Viralposter.</p>
 
@@ -342,7 +342,7 @@ $version = "0.6";
                     </div> <!-- end testimonials__slide -->
 
                     <div class="testimonials__slide">
-                        <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
                         
                         <p>I made back the purchase price in just 48 hours, if you want saving times and put your posts on autopilot that solution work like a charm Thank You!.</p>
                         
@@ -352,7 +352,7 @@ $version = "0.6";
                     </div> <!-- end testimonials__slide -->
 
                     <div class="testimonials__slide">
-                        <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/avatars/user-03.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/avatars/user-03.jpg" alt="Author image" class="testimonials__avatar">
                         
                         <p>Viralposter is the most valuable marketing strategy we have EVER purchased. It fits our needs perfectly. Thanks Viralposter!</p>
 
@@ -475,7 +475,7 @@ $version = "0.6";
 
             <div class="footer__about col-five tab-full left">
 
-                <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/images/logo_large.png" alt="About Us Logo">
+                <img src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/logo_large.png" alt="About Us Logo">
 
                 <p>
 				ViralPoster is working hard every days to brings powerful tool and build a quality product for the purpose of satisfying its customers and provide the peace of mind you need to grow your business.
@@ -533,8 +533,8 @@ $version = "0.6";
 
     <!-- Java Script
     ================================================== -->
-    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/jquery-3.2.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/plugins.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/js/main.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/js/plugins.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/js/main.min.js"></script>
 
 </body>
