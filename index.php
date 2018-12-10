@@ -112,7 +112,7 @@ $version = "0.7";
 
     <!-- home
     ================================================== -->
-    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/page-bg.jpg" data-natural-width=1920 data-natural-height=1080 data-position-y=center>
+    <section id="home" name="home" class="s-home target-section" data-parallax="scroll" data-image-src="https://cdn.jsdelivr.net/gh/viralposter/viralposter.net@<?php echo $version; ?>/assets/images/page-bg.jpg" data-natural-width=1920 data-natural-height=1080 data-position-y=center>
 
         <div class="shadow-overlay"></div>
 
@@ -159,7 +159,7 @@ $version = "0.7";
 
     <!-- about-how
     ================================================== -->
-    <section id="about-how" class="s-about-how target-section">
+    <section id="about-how" name="about-how" class="s-about-how target-section">
 
         <div class="row">
         </div>
@@ -204,7 +204,7 @@ $version = "0.7";
 
     <!-- features
     ================================================== -->
-    <section id="features" class="s-features target-section">
+    <section id="features" name="features" class="s-features target-section">
 
         <div class="row section-header has-bottom-sep" data-aos="fade-up">
             <div class="col-full">
@@ -372,7 +372,7 @@ $version = "0.7";
 
     <!-- pricing
     ================================================== -->
-    <section id="pricing" class="s-pricing target-section">
+    <section id="pricing" name="pricing" class="s-pricing target-section">
 
         <div class="row section-header align-center" data-aos="fade-up">
             <div class="col-full">
@@ -439,7 +439,7 @@ $version = "0.7";
 
     <!-- footer
     ================================================== -->
-    <section id="contact" class="target-section">
+    <section id="contact" name="contact" class="target-section">
 	<footer class="s-footer footer">
 
         <div class="row section-header align-center">
